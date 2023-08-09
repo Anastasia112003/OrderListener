@@ -2,7 +2,7 @@ package com.example.orderlistener.controller;
 
 import com.example.orderlistener.model.Order;
 import com.example.orderlistener.service.OrderService;
-import dto.OrderDTO;
+import com.example.orderlistener.dto.OrderDTO;
 import org.modelmapper.ModelMapper;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
